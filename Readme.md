@@ -36,7 +36,7 @@ notes-app/
 - Responsive UI Basics
 
 ## 🌐 Live Demo
-
+https://note-app-fawn-seven.vercel.app/
 
 ## Author
 Nirbhay Jakhar
